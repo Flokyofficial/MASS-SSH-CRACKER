@@ -8,3 +8,6 @@
 <pre>
 
 <h1> MASS SSH CRACKER </h1>
+<h4> Mass SSH Bruteforcer is a tool build Using pure PHP ! <h2>
+   <h1> Why ? </h1>
+   <h4> FOR FUN </h4>
