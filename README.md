@@ -7,3 +7,7 @@
 </pre>
 
 <h1> MASS SSH CRACKER </h1>
+
+Usage : php run.php
+
+ip.txt = list of ip 
