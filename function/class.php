@@ -55,7 +55,7 @@ function check($host,$user,$pass){
    return 'BAD';
 
 } else {
-d
+
    return 'GOOD';
 
 
